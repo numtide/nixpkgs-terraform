@@ -1,5 +1,7 @@
 # nixpkgs-terraform - terraform-related packages with Nix.
 
+**STATUS: experimental**
+
 This is basically a fork of nixpkgs' terraform.
 
 Sometimes it's nice to select the terraform and providers without bumping
